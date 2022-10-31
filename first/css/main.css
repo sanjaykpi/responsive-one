@@ -168,4 +168,106 @@ font-family: 'Roboto', sans-serif; */
 .banner-num-full{
     text-align: center;
 }
+.banner-num-in span{
+    font-size: 45px;
+    font-weight: 700;
+    color: #16df7e;
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-num-in p{
+    font-size: 18px;
+    font-weight: 600;
+    color: #5f687b;
+    font-family: 'Raleway', sans-serif;
+    margin: 10px 0 25px 0;
+}
+.service-top-in{
+    text-align: center;
+}
+.service-top-in h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #5f687b;
+    margin: 60px 0 20px 0; 
+    position: relative;
+    padding-top: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+.service-top-in span{
+    font-size: 42px;
+    font-weight: 700;
+    color: #f0f1f3;
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+.service-top-in p{
+    width: 90%;
+    margin: auto;
+    font-size: 16px;
+    color: #444444;
+    font-family: 'Open Sans', sans-serif;
+}
+.service{
+    background-color: #f9f9fa;
+}
+.service-top{
+    padding: 15px 0;
+}
+.service-bottom-in{
+    background-color: #fff;
+    padding: 80px 20px;
+    margin: 20px;
+    text-align: center;
+}
+.service-bottom{
+    padding: 20px 5px;
+}
+.service-bottom-in i{
+    font-size: 30px;
+    color: #16df7e;
+}
+.service-bottom-in h3{
+    font-size: 25px;
+    font-weight: 700;
+    color: #5f687b;
+    margin-top: 20px;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 20px;
+}
+.service-bottom-in p{
+    font-size: 15px;
+    color: #444444;
+    line-height: 25px;
+    font-family: 'Open Sans', sans-serif;
+}
+.portfolio-top-in{
+    text-align: center;
+}
+.portfolio-top-in h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #5f687b;
+    margin: 60px 0 20px 0; 
+    position: relative;
+    padding-top: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+.portfolio-top-in span{
+    font-size: 42px;
+    font-weight: 700;
+    color: #f0f1f3;
+    font-family: 'Raleway', sans-serif;  
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+.portfolio-top-in p{
+    width: 90%;
+    margin: auto;
+    font-size: 16px;
+    color: #444444;
+    font-family: 'Open Sans', sans-serif;
+}
 }
