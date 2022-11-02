@@ -270,4 +270,27 @@ font-family: 'Roboto', sans-serif; */
     color: #444444;
     font-family: 'Open Sans', sans-serif;
 }
+.portfolio-row ul{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.portfolio-row ul li{
+    padding: 10px;
+    list-style: none;
+    font-size: 15px;
+    font-weight: 600;
+    color: #444444;
+    font-family: 'Open Sans', sans-serif;
+}
+.port-img img{
+    width: 90%;
+}
+.port-img{
+    text-align: center;
+    margin: auto;
+}
+.portfolio-bottom{
+    margin-top: 20px;
+}
 }
