@@ -293,4 +293,52 @@ font-family: 'Roboto', sans-serif; */
 .portfolio-bottom{
     margin-top: 20px;
 }
+.port-item{
+    position: relative;
+}
+.port-info{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    opacity: 0;
+}
+.port-item:hover .port-info{
+    opacity: 1;
+}
+.port-app{
+    margin-right: 250px;
+}
+.port-app h4{
+    font-size: 18px;
+    font-weight: 600;
+    color: #5f687b;
+    font-family: 'Raleway', sans-serif;
+}
+.port-app p{
+    font-size: 15px;
+    color: #949cac;
+    margin-top: 10px;
+}
+.port-icon i{
+    font-size: 20px;
+    color: blue; 
+    margin-top: 8px;
+    padding: 5px;
+    display: inline-block;
+}
+}
+@media(min-width:560px){
+.port-img img{
+    width: 80%;
+}   
+.port-info{
+    width: 80%;
+} 
 }
