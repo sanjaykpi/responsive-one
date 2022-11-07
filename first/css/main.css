@@ -363,6 +363,9 @@ font-family: 'Roboto', sans-serif; */
     color: #444444;
     font-family: 'Open Sans', sans-serif;
 }
+.testimonials{
+    background-color: #f9f9fa;
+}
 }
 @media(min-width:560px){
 .port-img img{
