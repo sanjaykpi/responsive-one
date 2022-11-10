@@ -437,6 +437,122 @@ font-family: 'Roboto', sans-serif; */
     font-weight: 700;
     font-family: 'Raleway', sans-serif;
 }
+/* team */
+.team-top-in{
+    text-align: center;
+}
+.team-top-in h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #5f687b;
+    /* margin: 60px 0 20px 0;  */
+    position: relative;
+    padding-top: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+.team-top-in span{
+    font-size: 42px;
+    font-weight: 700;
+    color: #f0f1f3;
+    font-family: 'Raleway', sans-serif;  
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+.team-top-in p{
+    width: 90%;
+    margin: auto;
+    padding-top: 20px;
+    font-size: 16px;
+    color: #444444;
+    font-family: 'Open Sans', sans-serif;
+}
+.team{
+    background-color: #f9f9fa;
+}
+.team-top{
+    padding-top: 60px;
+}
+.team-bottom{
+    padding: 30px 0;
+}
+.team-bot-in{
+    text-align: center;
+    background-color: #fff;
+    margin: 20px ;
+    padding: 10px;
+}
+.team-bot-in img{
+    margin-top: 30px;
+}
+.team-bot-in h3{
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif; 
+    margin-top: 20px;
+}
+.team-bot-in span{
+    font-size: 13px;
+    font-style: italic;
+    color: #444444;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 5px;
+    display: inline-block;
+}
+.team-bot-in p{
+    font-size: 14px;
+    font-style: italic;
+    color: #aaaaaa;
+    line-height: 1.4;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 15px;
+}
+.team-media{
+    margin-top: 20px;
+}
+.team-media i{
+    font-size: 20px;
+    margin-left: 3px;
+    padding-bottom: 10px;
+    display: inline-block;
+    color: rgb(145, 145, 145);
+}
+.team-media i:hover{
+    color: rgb(20, 200, 113);
+}
+/* contact */
+
+.contact-top-in{
+    text-align: center;
+}
+.contact-top-in h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #5f687b;
+    /* margin: 60px 0 20px 0;  */
+    position: relative;
+    padding-top: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+.contact-top-in span{
+    font-size: 42px;
+    font-weight: 700;
+    color: #f0f1f3;
+    font-family: 'Raleway', sans-serif;  
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+.contact-top-in p{
+    width: 90%;
+    margin: auto;
+    padding-top: 20px;
+    font-size: 16px;
+    color: #444444;
+    font-family: 'Open Sans', sans-serif;
+}
+.contact-top{
+    margin-top: 30px;
+}
 }
 @media(min-width:560px){
 .port-img img{
