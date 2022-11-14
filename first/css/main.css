@@ -556,6 +556,11 @@ font-family: 'Roboto', sans-serif; */
 .con-map{
     text-align: center;
 }
+.contact-left,.contact-right{
+    background-color: #f9f9fa;
+    margin: 30px;
+    padding: 25px;
+}
 }
 @media(min-width:560px){
 .port-img img{
