@@ -640,6 +640,9 @@ font-family: 'Roboto', sans-serif; */
 .form-button{
     text-align: center;
 }
+.footer-top{
+    text-align: center;
+}
 }
 @media(min-width:560px){
 .port-img img{
