@@ -640,8 +640,72 @@ font-family: 'Roboto', sans-serif; */
 .form-button{
     text-align: center;
 }
+.footer{
+    background-color: #f3f4f6;
+}
 .footer-top{
     text-align: center;
+    padding-top: 60px;
+}
+.footer-top h3{
+    font-size: 36px;
+    font-weight: 800;
+    color: #5f687b;
+    font-family: 'Poppins', sans-serif;
+}
+.footer-top p{
+    font-size: 15px;
+    color: #5f687b;
+    font-style: italic;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 30px;
+    width: 80%;
+    margin: auto;
+}
+.footer-icon a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #5f687b;
+    background: #eaecef;
+    width: 36px;
+    height: 36px;
+    display: inline-block;
+    padding: 8px 0;
+    margin: 40px 0 0 4px;
+    border-radius: 4px;
+}
+.footer-form{
+    margin-top: 30px;
+}
+.foo-form{
+    position: relative;
+    background: #fff;
+    padding: 6px 10px;
+    border-radius: 4px;
+    text-align: left;
+    border: 1px solid #e4e6ea;
+    width: 80%;
+    margin: auto;
+}
+.foo-form input[type=submit]{
+    position: absolute;
+    font-size: 16px;
+    color: #fff;
+    border: none;
+    padding: 0 20px;
+    background: #16df7e;
+    top: -1px;
+    right: -1px;
+    bottom: -1px;
+    border-radius: 0 4px 4px 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.foo-form input[type=email]{
+    font-size: 16px;
+    width: 100%;
+    padding: 5px 8px;
+    border: none;
+    font-family: 'Open Sans', sans-serif;
 }
 }
 @media(min-width:560px){
