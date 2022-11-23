@@ -8,6 +8,13 @@ font-family: 'Roboto', sans-serif; */
     margin: 0;
     box-sizing: border-box;
 }
+.banner-left-in button:hover{
+    background-color: blue;
+    box-shadow: 0 5px 10px blue;
+}
+.banner-left-inn:hover i{
+    color: #16df7e;
+}
 @media(min-width:300px){
 .head{
     display: flex;
@@ -706,6 +713,21 @@ font-family: 'Roboto', sans-serif; */
     padding: 5px 8px;
     border: none;
     font-family: 'Open Sans', sans-serif;
+}
+.footer-bottom{
+    text-align: center;
+    font-size: 14px;
+    color: #5f687b;
+    font-family: 'Open Sans', sans-serif;
+    padding: 40px 30px;
+}
+.foo-bottom-two a{
+    text-decoration: none;
+    color: #16df7e;
+}
+.foo-bottom-two{
+    margin-top: 10px;
+    padding: 0 0 20px 0;
 }
 }
 @media(min-width:560px){
