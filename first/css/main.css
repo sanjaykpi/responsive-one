@@ -15,6 +15,20 @@ font-family: 'Roboto', sans-serif; */
 .banner-left-inn:hover i{
     color: #16df7e;
 }
+.service-bottom-in:hover h3{
+    color: #16df7e;
+}
+.action-full a:hover{
+    background-color: blue;
+    border: none;
+}
+.team-media i:hover{
+    color: #16df7e;
+}
+.con-location:hover i,.con-email:hover i,.con-call:hover i{
+    background-color: #16df7e;
+    color: #fff;
+}
 @media(min-width:300px){
 .head{
     display: flex;
