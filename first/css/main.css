@@ -29,6 +29,19 @@ font-family: 'Roboto', sans-serif; */
     background-color: #16df7e;
     color: #fff;
 }
+.foo-form input[type=submit]:hover{
+    background-color: blue;
+}
+.form-button button:hover{
+    background-color: blue;
+}
+.portfolio-row li:hover{
+    color: #16df7e;
+}
+.footer-icon a:hover{
+    background-color: #16df7e;
+    color: #fff;
+}
 @media(min-width:300px){
 .head{
     display: flex;
