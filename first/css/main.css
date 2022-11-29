@@ -9,8 +9,8 @@ font-family: 'Roboto', sans-serif; */
     box-sizing: border-box;
 }
 .banner-left-in button:hover{
-    background-color: blue;
-    box-shadow: 0 5px 10px blue;
+    background-color: rgb(59, 59, 221);
+    box-shadow: 0 5px 10px rgb(59, 59, 221);
 }
 .banner-left-inn:hover i{
     color: #16df7e;
@@ -19,7 +19,7 @@ font-family: 'Roboto', sans-serif; */
     color: #16df7e;
 }
 .action-full a:hover{
-    background-color: blue;
+    background-color: rgb(59, 59, 221);
     border: none;
 }
 .team-media i:hover{
@@ -30,10 +30,10 @@ font-family: 'Roboto', sans-serif; */
     color: #fff;
 }
 .foo-form input[type=submit]:hover{
-    background-color: blue;
+    background-color: rgb(59, 59, 221)
 }
 .form-button button:hover{
-    background-color: blue;
+    background-color: rgb(59, 59, 221)
 }
 .portfolio-row li:hover{
     color: #16df7e;
