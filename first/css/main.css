@@ -764,4 +764,11 @@ font-family: 'Roboto', sans-serif; */
 .port-info{
     width: 80%;
 } 
+.banner-num-full{
+    display: flex;
+    justify-content: space-between;
+}
+.banner-num-in{
+    width: 50%;
+}
 }
