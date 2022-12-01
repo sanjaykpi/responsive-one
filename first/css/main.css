@@ -42,6 +42,9 @@ font-family: 'Roboto', sans-serif; */
     background-color: #16df7e;
     color: #fff;
 }
+.banner-box-in:hover h3{
+    color: #16df7e;
+}
 @media(min-width:300px){
 .head{
     display: flex;
@@ -766,9 +769,10 @@ font-family: 'Roboto', sans-serif; */
 } 
 .banner-num-full{
     display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap;
 }
 .banner-num-in{
-    width: 50%;
+    width: 40%;
+    margin: auto;
 }
 }
